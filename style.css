@@ -3,3 +3,6 @@ button {
     border: 0;
     cursor: pointer;
 }
+img {
+    image-rendering: pixelated;
+}
